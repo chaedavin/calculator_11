@@ -62,5 +62,5 @@ feature 브랜치: 각 기능 추가 시 생성되며, 완료 후 develop에 병
 feat/structure: 기본 계산 기능 추가,
 feat/style: 오류 처리 기능 추가,
 feat/function: 버튼 hover 및 특수 버튼 스타일링 추가,
-```
+
 이미지
